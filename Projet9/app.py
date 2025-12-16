@@ -8,7 +8,7 @@ import PyPDF2
 # Title
 st.set_page_config(page_title="AI Document Summarizer", layout="centered")
 
-# Custom CSS for aesthetic UI
+# CSS for UI
 st.markdown("""
     <style>
     /* Global Styles */
