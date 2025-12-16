@@ -1,5 +1,5 @@
 # AI Document Summarizer using Streamlit, PyPDF2, HuggingFace Transformers
-# Student-friendly | t5-small model | Python 3.11.9
+# t5-small model | Python 3.11.9
 
 import streamlit as st
 from transformers import pipeline
