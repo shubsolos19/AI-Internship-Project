@@ -1,4 +1,4 @@
-# AI Document Summarizer (Student Internship Project)
+# AI Document Summarizer (Internship Project)
 
 > A beginner-friendly Python application that uses AI to automatically summarize documents and PDF files.
 
